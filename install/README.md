@@ -1,4 +1,4 @@
-# INSTALLATION GUIDE:
+# INSTALLATION GUIDE
 
 Anaconda and Miniconda are distributions of the Python and R programming languages for scientific computing that aim to simplify package management and deployment.
 Both Anaconda Distribution and Miniconda include the conda package and environment manager. The main difference is that Anaconda has a graphical interface to manage and includes more Python packages (250+) than Miniconda(<70).
@@ -7,9 +7,9 @@ Both Anaconda Distribution and Miniconda include the conda package and environme
 ### Basic usage
 Conda allows you to create separate environments, each containing their own files, packages, and package dependencies. The contents of each environment do not interact with each other.
 
-We can use a YAML file as [`keras.yml`](https://github.com/Mathmode/COURSE-NNs-PDEs/install/keras.yml) to create an environment with the desired packages. These files create the keras with useful packages such as  Keras 3.7, Tensorflow 2.17 and JAX. It includes also the installation of the IDE [Spyder](https://www.spyder-ide.org/)
+We can use a YAML file as [`course.yml`](https://github.com/Mathmode/COURSE-NNs-PDEs/install/course.yml) to create an environment with the desired packages. These files create the keras with useful packages such as  Keras 3.7, Tensorflow 2.17 and JAX. It includes also the installation of the IDE [Spyder](https://www.spyder-ide.org/)
    ```
-   conda env create -f keras.yml 
+   conda env create -f course.yml 
    ```
  
 You can see the list of the environments you have
@@ -18,14 +18,14 @@ You can see the list of the environments you have
   ```
 To go inside the environment we have created, we need to activate it
    ```
-   conda activate keras
+   conda activate course
    ```
 
 To list all of the packages in the active environment:
   ```
   conda list
   ```
-To remove a package such as Keras in the current environment:
+To remove a package, such as Keras, in the current environment:
   ```
   conda remove keras
   ```
