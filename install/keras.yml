@@ -1,4 +1,4 @@
-name: keras
+name: course
 channels:
   - conda-forge
 dependencies:
