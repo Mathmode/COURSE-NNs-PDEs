@@ -9,7 +9,7 @@ Conda allows you to create separate environments, each containing their own file
 
 We can use a YAML file as [`course.yml`](https://github.com/Mathmode/COURSE-NNs-PDEs/install/course.yml) to create an environment, named 'course' with the desired packages (specifically, Keras 3.7, Tensorflow 2.17, JAX, etc.). It includes also the installation of the IDE [Spyder](https://www.spyder-ide.org/)
    ```
-   conda env create -f course.yml 
+   conda env create -f course_env.yml 
    ```
  
 You can see the list of the environments you have
