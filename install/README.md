@@ -7,7 +7,7 @@ Both Anaconda Distribution and Miniconda include the conda package and environme
 ### Basic usage
 Conda allows you to create separate environments, each containing their own files, packages, and package dependencies. The contents of each environment do not interact with each other.
 
-We can use a YAML file as [`course.yml`](https://github.com/Mathmode/COURSE-NNs-PDEs/install/course.yml) to create an environment, named 'course' with the desired packages (specifically, Keras 3.7, Tensorflow 2.17, JAX, etc.). It includes also the installation of the IDE [Spyder](https://www.spyder-ide.org/)
+We can use a YAML file as [`course_env.yml`](https://github.com/Mathmode/COURSE-NNs-PDEs/install/course_env.yml) to create an environment, named 'course' with the desired packages (specifically, Keras 3.7, Tensorflow 2.17, JAX, etc.). It includes also the installation of the IDE [Spyder](https://www.spyder-ide.org/)
    ```
    conda env create -f course_env.yml 
    ```
