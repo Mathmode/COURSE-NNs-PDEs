@@ -27,13 +27,13 @@ To list all of the packages in the active environment:
   ```
 To remove a package, such as Keras, in the current environment:
   ```
-  conda remove course
+  conda remove keras
   ```
 To remove an environment, you need to be outside of the environment you want remove.
   ```
   conda deactivate
   ```
   ```
-  conda remove --name keras --all
+  conda remove --name course --all
   ```
 # TEST THE INSTALLATION:
