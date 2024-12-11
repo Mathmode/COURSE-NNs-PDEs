@@ -5,8 +5,9 @@
   - Ángel Javer Omella<sup>1</sup>  &emsp; ajaome@gmail.com
   - David Pardo<sup>1,2,3</sup>    &ensp;&ensp;&emsp;&emsp; dzubiaur@gmail.com
     
-## Organizer:
-  - Ignacio Muga<sup>4</sup>       &emsp; ignacio.muga@gmail.com
+## Organizers:
+  - Ignacio Muga<sup>4</sup>       &emsp;&emsp;&emsp; ignacio.muga@gmail.com
+  - Paulina Sepúlveda<sup>4</sup>  &emsp; paulina.e.sepulveda@gmail.com
 
 ## Affiliations:
   <sup>1</sup>Universidad del País Vasco (UPV/EHU), Bilbao, Spain
@@ -17,10 +18,15 @@
   
   <sup>4</sup> Pontifical Catholic University of Valparaíso (PUCV), Valparaíso, Chile
 
+## Dates:
+From 19/01/2025 to 24/01/2025
 
-  ## Founding:
+## Founding:
+- ANID Fomento a la Vinculación Internacional FOVI240119
+- Instituto de Matemáticas PUCV
+- Centro Nacional de Inteligencia Artificial
 
-  ## Acknowledgements:
+## Acknowledgements:
 There is no need to reinvent the wheel. That is why we occasionally use material and code developed initially by collaborators to the [MATMODE](https://www.mathmode.science/) group. In particular, we would like to give our sincere thanks to:
 
 - [Jamie Taylor](https://www.cunef.edu/en/faculty-and-research/taylor-jamie-michael/) who developed the wonderful introductory course [In-Deep-examples](https://github.com/jamie-m-taylor/In-Deep-examples) for solving problems from PDEs using Tensorflow.
