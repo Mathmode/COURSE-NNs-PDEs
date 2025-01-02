@@ -5,7 +5,7 @@ During the course, we will provide an overview of how to use NN to solve PDEs. I
 | :---:   | :---: |
 | [Improving weights initialization](#initialization)  | name 1 <br/> name 2 <br/> name 3|
 | [First-Order System of Least Squares (FOSLS) Neural Networks](#fols)    | name 1 <br/> name 2 <br/> name 3|
-| [Memory-based Integration](#int)| name 1 <br/> name 2 <br/> name 3|
+| [Memory-based numerical integration](#int)| name 1 <br/> name 2 <br/> name 3|
 | [Differentiable FEM](#diffFEM) | name 1 <br/> name 2 <br/> name 3|
 | [Multi-level error correction for PINNs](#Multi-levelPINNs)  | name 1 <br/> name 2 <br/> name 3|
 
@@ -19,4 +19,6 @@ bla bla
 # <a id="diffFEM"></a> Differentiable FEM
 bla bla
 🚧
+# <a id="Multi-levelPINNs"></a> Multi-level error correction for PINNs
+Following [Z. Aldirany, R. Cottereau, M. Laforest, S. Prudhomme, Multi-level neural networks for accurate solutions of boundary-value problems, Computer Methods in Applied Mechanics and Engineering, Volume 419, 2024, 116666, ISSN 0045-7825, https://doi.org/10.1016/j.cma.2023.116666], we propose to replicate the results replacing the approximation of the PDE solution in the form of a sum of neural networks by a single neural network that is iteratively retrained.
 
