@@ -4,7 +4,7 @@ During the course, we will provide an overview of how to use NN to solve PDEs. I
 | Project |  Members | 
 | :---:   | :---: |
 | [Improving weights initialization](#initialization)  | name 1 <br/> name 2 <br/> name 3|
-| [First-Order System of Least Squares (FOSLS) Neural Networks](#fols)    | name 1 <br/> name 2 <br/> name 3|
+| [FOSLS Neural Networks](#fols)    | name 1 <br/> name 2 <br/> name 3|
 | [Memory-based numerical integration](#int)| name 1 <br/> name 2 <br/> name 3|
 | [Differentiable FEM](#diffFEM) | name 1 <br/> name 2 <br/> name 3|
 | [Multi-level error correction for PINNs](#Multi-levelPINNs)  | name 1 <br/> name 2 <br/> name 3|
@@ -12,7 +12,7 @@ During the course, we will provide an overview of how to use NN to solve PDEs. I
 
 # <a id="initialization"></a> Improving weights initialization
 We will explore different methods to initialize weights when solving PDEs. We will start with a simple 1D problem using ReLU activation functions.
-# <a id="fols"></a> First Order System Least Squares
+# <a id="fols"></a> First-Order System of Least Squares Neural Networks
 Following [J. A. Opschoor, P. C. Petersen, C. Schwab (2024). First Order System Least Squares Neural Networks. arXiv preprint arXiv:2409.20264.], we propose to implement a First-Order System of Least Squares scheme for solving PDEs. 
 # <a id="int"></a> Memory-based numerical integration
 Following [C. Uriarte, J. M. Taylor, D. Pardo, O. A. Rodríguez, P. Vega (2023). Memory-Based Monte Carlo Integration for Solving Partial Differential Equations Using Neural Networks. In International Conference on Computational Science (pp. 509-516). Cham: Springer Nature Switzerland], we propose a further theoretical investigation and experimentation for improving numerical integration errors. The final application of this proposal is to improve the instabilities arising when using the hybrid LS/GD optimizer [C. Uriarte, M. Bastidas, D. Pardo, J. M. Taylor, S. Rojas (2024). Optimizing variational physics-informed neural networks using least squares. arXiv preprint arXiv:2407.20417].
