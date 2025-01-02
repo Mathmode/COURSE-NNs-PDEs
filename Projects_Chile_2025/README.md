@@ -5,9 +5,9 @@ During the course, we will provide an overview of how to use NN to solve PDEs. I
 | :---:   | :---: |
 | [Weights initialization](#initialization)  | name 1 <br/> name 2 <br/> name 3|
 | [FOSLS](#fols)    | name 1 <br/> name 2 <br/> name 3|
-| [Integration](#int)| name 1 <br/> name 2 <br/> name 3|
+| [Memory-based Integration](#int)| name 1 <br/> name 2 <br/> name 3|
 | [Differentiable FEM](#diffFEM) | name 1 <br/> name 2 <br/> name 3|
-|   | name 1 <br/> name 2 <br/> name 3|
+| [Multi-level error correction for PINNs](#Multi-levelPINNs)  | name 1 <br/> name 2 <br/> name 3|
 
 
 # <a id="initialization"></a> Weights initialization
