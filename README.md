@@ -1,7 +1,7 @@
 # COURSE: Introduction to coding neural networks and partial differential equations
 
 ## Professors:
-  - Carlos Uriarte<sup>1</sup>     &ensp;&emsp;&emsp;&emsp;  curiarte@gmail.com
+  - Carlos Uriarte<sup>1</sup>     &ensp;&emsp;&emsp;&emsp;  carlos.uribar@gmail.com
   - Ángel Javer Omella<sup>1</sup>  &emsp; ajaome@gmail.com
   - David Pardo<sup>1,2,3</sup>    &ensp;&ensp;&emsp;&emsp; dzubiaur@gmail.com
     
@@ -12,11 +12,11 @@
 ## Affiliations:
   <sup>1</sup>Universidad del País Vasco (UPV/EHU), Bilbao, Spain
   
-  <sup>2</sup> Basque Center for Applied Mathematics (BCAM), Bilbao, Spain
+  <sup>2</sup>Basque Center for Applied Mathematics (BCAM), Bilbao, Spain
   
-  <sup>3</sup> Basque Foundation for Science (Ikerbasque), Bilbao, Spain
+  <sup>3</sup>Basque Foundation for Science (Ikerbasque), Bilbao, Spain
   
-  <sup>4</sup> Pontifical Catholic University of Valparaíso (PUCV), Valparaíso, Chile
+  <sup>4</sup>Pontifical Catholic University of Valparaíso (PUCV), Valparaíso, Chile
 
 ## Dates:
 From 19/01/2025 to 24/01/2025
