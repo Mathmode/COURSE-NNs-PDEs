@@ -3,11 +3,11 @@ During the course, we will provide an overview of how to use NN to solve PDEs. I
 
 | Project |  Members | 
 | :---:   | :---: |
-| [Improving weights initialization](#initialization)  | name 1 <br/> name 2 <br/> name 3|
-| [FOSLS Neural Networks](#fols)    | name 1 <br/> name 2 <br/> name 3|
-| [Memory-based numerical integration](#int)| name 1 <br/> name 2 <br/> name 3|
-| [Differentiable FEM](#diffFEM) | name 1 <br/> name 2 <br/> name 3|
-| [Multi-level error correction for PINNs](#Multi-levelPINNs)  | name 1 <br/> name 2 <br/> name 3|
+| [Improving weights initialization](#initialization)  | Student 1 <br/> Student 2 <br/> Student 3 <br/> Student 4|
+| [FOSLS Neural Networks](#fols)    | Student 1 <br/> Student 2 <br/> Student 3 <br/> Student 4|
+| [Memory-based numerical integration](#int) | Student 1 <br/> Student 2 <br/> Student 3 <br/> Student 4|
+| [Differentiable FEM](#diffFEM) | Student 1 <br/> Student 2 <br/> Student 3 <br/> Student 4|
+| [Multi-level error correction for PINNs](#Multi-levelPINNs)  | Student 1 <br/> Student 2 <br/> Student 3 <br/> Student 4|
 
 
 # <a id="initialization"></a> Improving weights initialization
