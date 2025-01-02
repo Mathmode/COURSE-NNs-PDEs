@@ -21,7 +21,7 @@
 ## Dates:
 From 19/01/2025 to 24/01/2025
 
-## Founding:
+## Funding:
 - ANID Fomento a la Vinculación Internacional FOVI240119
 - Instituto de Matemáticas PUCV
 - Centro Nacional de Inteligencia Artificial
