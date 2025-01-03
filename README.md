@@ -31,4 +31,4 @@ We use some material and code developed initially by collaborators to the [MATMO
 
 - [Jamie Taylor](https://www.cunef.edu/en/faculty-and-research/taylor-jamie-michael/) who developed the wonderful introductory course [In-Deep-examples](https://github.com/jamie-m-taylor/In-Deep-examples) for solving problems from PDEs using Tensorflow.
 - [Manuela Bastidas](https://ciencias.medellin.unal.edu.co/index.php/component/teachers/?option=com_teachers&escuela=Escuela%20de%20Matematicas&letra=B&correo=mbastidaso@unal.edu.co) for developing the 
-[PINNS-and-DFR-examples](exampleshttps://github.com/Mathmode/PINNS-and-DFR-examples/tree/main)
+[PINNS-and-DFR-examples](https://github.com/Mathmode/PINNS-and-DFR-examples/)
