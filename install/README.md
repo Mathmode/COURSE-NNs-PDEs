@@ -38,7 +38,7 @@ To remove an environment, you need to be outside of the environment you want rem
   ```
 # TEST THE INSTALLATION:
 
-Once you have created the environment, you can test the backend installations by executing the files [`PINNs1D_tf.py`](https://github.com/Mathmode/COURSE-NNs-PDEs/blob/main/install/PINNs1D_tf.py) and [`PINNs1D_jax.py`](https://github.com/Mathmode/COURSE-NNs-PDEs/blob/main/install/PINNs1D_jax.py). Activate the environment and run the tests using the command:
+Once you have created the "course" environment with the YAML file [`course_env.yml`](https://github.com/Mathmode/COURSE-NNs-PDEs/blob/main/install/course_env.yml), you can test the backend installations by executing the files [`PINNs1D_tf.py`](https://github.com/Mathmode/COURSE-NNs-PDEs/blob/main/install/PINNs1D_tf.py) and [`PINNs1D_jax.py`](https://github.com/Mathmode/COURSE-NNs-PDEs/blob/main/install/PINNs1D_jax.py). Activate the environment and run the tests using the command:
    ```
    python filename.py
    ```
