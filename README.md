@@ -27,7 +27,7 @@ From 19/01/2025 to 24/01/2025
 - Centro Nacional de Inteligencia Artificial
 
 ## Acknowledgements:
-There is no need to reinvent the wheel. That is why we occasionally use material and code developed initially by collaborators to the [MATMODE](https://www.mathmode.science/) group. In particular, we would like to give our sincere thanks to:
+We use some material and code developed initially by collaborators to the [MATMODE](https://www.mathmode.science/) group. In particular, we would like to give our sincere thanks to:
 
 - [Jamie Taylor](https://www.cunef.edu/en/faculty-and-research/taylor-jamie-michael/) who developed the wonderful introductory course [In-Deep-examples](https://github.com/jamie-m-taylor/In-Deep-examples) for solving problems from PDEs using Tensorflow.
 - [Manuela Bastidas](https://ciencias.medellin.unal.edu.co/index.php/component/teachers/?option=com_teachers&escuela=Escuela%20de%20Matematicas&letra=B&correo=mbastidaso@unal.edu.co) for developing the 
