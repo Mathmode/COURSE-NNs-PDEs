@@ -3,7 +3,7 @@ During the course, we will provide an overview of how to use NN to solve PDEs. I
 
 | Project |  Members | 
 | :---:   | :---: |
-| [Improving weights initialization](#initialization)  | Daniel Insunza <br/> Student 2 <br/> Student 3 <br/> Student 4|
+| [Improving weights initialization](#initialization)  | Daniel Inzunza <br/> Student 2 <br/> Student 3 <br/> Student 4|
 | [FOSLS Neural Networks](#fols)    | Paulina Sepúlveda <br/> Francisca Álvarez <br/> Laura Sobarzo <br/> Student 4|
 | [Memory-based numerical integration](#int) | Patrick Vega <br/> Nicolas Zamorano <br/> Student 3 <br/> Student 4|
 | [Differentiable FEM](#diffFEM) | Manuel Sánchez <br/> Student 2 <br/> Student 3 <br/> Student 4|
