@@ -12,6 +12,7 @@ During the course, we will provide an overview of how to use NN to solve PDEs. I
 
 # <a id="initialization"></a> Improving weights initialization
 We will explore different methods to initialize weights when solving PDEs. We will start with a simple 1D problem using ReLU activation functions.
+Reference: [Cyr et. al., 2020](https://proceedings.mlr.press/v107/cyr20a/cyr20a.pdf)]
 # <a id="fols"></a> First-Order System of Least Squares Neural Networks
 Following [J. A. Opschoor, P. C. Petersen, C. Schwab (2024). First Order System Least Squares Neural Networks. arXiv preprint [arXiv:2409.20264.](https://arxiv.org/pdf/2409.20264)], we propose to implement a First-Order System of Least Squares scheme for solving PDEs. 
 # <a id="int"></a> Memory-based numerical integration
