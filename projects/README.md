@@ -7,7 +7,7 @@ During the course, we will provide an overview of how to use NN to solve PDEs. I
 | [FOSLS Neural Networks](#fols)    | Student 1 <br/> Student 2 <br/> Student 3 <br/> Student 4|
 | [Memory-based numerical integration](#int) | Student 1 <br/> Student 2 <br/> Student 3 <br/> Student 4|
 | [Differentiable FEM](#diffFEM) | Student 1 <br/> Student 2 <br/> Student 3 <br/> Student 4|
-| [Multi-level error correction for PINNs](#Multi-levelPINNs)  | Student 1 <br/> Student 2 <br/> Student 3 <br/> Student 4|
+| [Multi-level error correction for PINNs](#Multi-levelPINNs)  | Ignacio Muga <br/> Pablo Herrera <br/> Student 3 <br/> Student 4|
 
 
 # <a id="initialization"></a> Improving weights initialization
