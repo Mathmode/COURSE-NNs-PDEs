@@ -36,6 +36,16 @@ To remove an environment, you need to be outside of the environment you want rem
   ```
   conda remove --name course --all
   ```
+
+### Windows users:
+Some Windows users reported having problems installing Tensorflow.  The best solution is to remove Windows from your life. Another is to edit the [`course_env.yml`](https://github.com/Mathmode/COURSE-NNs-PDEs/blob/main/install/course_env.yml) file to remove the line that installs Tensorflow. Once we have the environment created with the rest of the packages, we activate it and force the Tensorflow installation with pip:
+```
+   conda activate course
+   conda update conda
+   conda install pip
+   pip install tensorflow==2.17
+   ```
+
 # TEST THE INSTALLATION:
 
 Once you have created the "course" environment with the YAML file [`course_env.yml`](https://github.com/Mathmode/COURSE-NNs-PDEs/blob/main/install/course_env.yml), you can test the backend installations by executing the files [`PINNs1D_tf.py`](https://github.com/Mathmode/COURSE-NNs-PDEs/blob/main/install/PINNs1D_tf.py) and [`PINNs1D_jax.py`](https://github.com/Mathmode/COURSE-NNs-PDEs/blob/main/install/PINNs1D_jax.py). Activate the environment and run the tests using the command:
