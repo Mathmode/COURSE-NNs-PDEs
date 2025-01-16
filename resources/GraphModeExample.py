@@ -17,7 +17,7 @@ import tensorflow as tf
 # tf.config.set_visible_devices([], 'GPU')
 
 #display information about the device used
-tf.debugging.set_log_device_placement(True)
+# tf.debugging.set_log_device_placement(True)
 
 #we force to run in eagerly mode
 # tf.config.run_functions_eagerly(True)
@@ -152,7 +152,7 @@ print("Time_jax (Graph, second call)", time_graph_2)  # Time for the second call
 
 
 # We test here the value_and_grad function
-#we call the functions to have the jit compilation
+#we first call the functions to have the jit compilation
 f = f_jit(x)
 f_df = value_and_grad_vmap_jit(x)
 #
