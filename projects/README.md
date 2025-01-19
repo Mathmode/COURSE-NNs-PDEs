@@ -6,7 +6,7 @@ During the course, we will provide an overview of how to use NN to solve PDEs. I
 | [Improving weights initialization](#initialization)  | Daniel Inzunza <br/> PUC Student 1 <br/> PUC Student 2|
 | [FOSLS Neural Networks](#fols)    | Paulina Sepúlveda <br/> Francisca Álvarez <br/> Laura Sobarzo|
 | [Memory-based numerical integration](#int) | Patrick Vega <br/> Nicolas Zamorano <br/> Matías Barcos <br/> Jonathan Lagos|
-| [Differentiable FEM](#diffFEM) | Manuel Sánchez <br/> PUC Student 3 <br/> PUC Student 4 <br/> PUC Student 5|
+| [Differentiable FEM](#diffFEM) | Manuel Sánchez <br/> Danilo Aballay <br/> PUC Student 4 <br/> PUC Student 5|
 | [Multi-level error correction for PINNs](#Multi-levelPINNs)  | Ignacio Muga <br/> Pablo Herrera <br/> Jorge Perera <br/> Marco Cisterna|
 
 
